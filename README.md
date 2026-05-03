@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/abhishekapoor/Leetcode-Challenge/tree/master/0125-valid-palindrome) |
 | [0127-word-ladder](https://github.com/abhishekapoor/Leetcode-Challenge/tree/master/0127-word-ladder) |
 | [0242-valid-anagram](https://github.com/abhishekapoor/Leetcode-Challenge/tree/master/0242-valid-anagram) |
+| [0796-rotate-string](https://github.com/abhishekapoor/Leetcode-Challenge/tree/master/0796-rotate-string) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -122,4 +123,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0127-word-ladder](https://github.com/abhishekapoor/Leetcode-Challenge/tree/master/0127-word-ladder) |
+## String Matching
+|  |
+| ------- |
+| [0796-rotate-string](https://github.com/abhishekapoor/Leetcode-Challenge/tree/master/0796-rotate-string) |
 <!---LeetCode Topics End-->
