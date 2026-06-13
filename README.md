@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0643-maximum-average-subarray-i](https://github.com/abhishekapoor/Leetcode-Challenge/tree/master/0643-maximum-average-subarray-i) |
 | [0704-binary-search](https://github.com/abhishekapoor/Leetcode-Challenge/tree/master/0704-binary-search) |
 | [0739-daily-temperatures](https://github.com/abhishekapoor/Leetcode-Challenge/tree/master/0739-daily-temperatures) |
+| [3838-weighted-word-mapping](https://github.com/abhishekapoor/Leetcode-Challenge/tree/master/3838-weighted-word-mapping) |
 ## Hash Table
 |  |
 | ------- |
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0127-word-ladder](https://github.com/abhishekapoor/Leetcode-Challenge/tree/master/0127-word-ladder) |
 | [0242-valid-anagram](https://github.com/abhishekapoor/Leetcode-Challenge/tree/master/0242-valid-anagram) |
 | [0796-rotate-string](https://github.com/abhishekapoor/Leetcode-Challenge/tree/master/0796-rotate-string) |
+| [3838-weighted-word-mapping](https://github.com/abhishekapoor/Leetcode-Challenge/tree/master/3838-weighted-word-mapping) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -129,4 +131,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0796-rotate-string](https://github.com/abhishekapoor/Leetcode-Challenge/tree/master/0796-rotate-string) |
+## Simulation
+|  |
+| ------- |
+| [3838-weighted-word-mapping](https://github.com/abhishekapoor/Leetcode-Challenge/tree/master/3838-weighted-word-mapping) |
 <!---LeetCode Topics End-->
