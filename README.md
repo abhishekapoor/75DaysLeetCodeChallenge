@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0643-maximum-average-subarray-i](https://github.com/abhishekapoor/Leetcode-Challenge/tree/master/0643-maximum-average-subarray-i) |
 | [0704-binary-search](https://github.com/abhishekapoor/Leetcode-Challenge/tree/master/0704-binary-search) |
 | [0739-daily-temperatures](https://github.com/abhishekapoor/Leetcode-Challenge/tree/master/0739-daily-temperatures) |
+| [1386-cinema-seat-allocation](https://github.com/abhishekapoor/Leetcode-Challenge/tree/master/1386-cinema-seat-allocation) |
 | [3838-weighted-word-mapping](https://github.com/abhishekapoor/Leetcode-Challenge/tree/master/3838-weighted-word-mapping) |
 ## Hash Table
 |  |
@@ -33,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/abhishekapoor/Leetcode-Challenge/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/abhishekapoor/Leetcode-Challenge/tree/master/0347-top-k-frequent-elements) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/abhishekapoor/Leetcode-Challenge/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [1386-cinema-seat-allocation](https://github.com/abhishekapoor/Leetcode-Challenge/tree/master/1386-cinema-seat-allocation) |
 ## Sorting
 |  |
 | ------- |
@@ -94,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/abhishekapoor/Leetcode-Challenge/tree/master/0011-container-with-most-water) |
+| [1386-cinema-seat-allocation](https://github.com/abhishekapoor/Leetcode-Challenge/tree/master/1386-cinema-seat-allocation) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -135,4 +138,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3838-weighted-word-mapping](https://github.com/abhishekapoor/Leetcode-Challenge/tree/master/3838-weighted-word-mapping) |
+## Bit Manipulation
+|  |
+| ------- |
+| [1386-cinema-seat-allocation](https://github.com/abhishekapoor/Leetcode-Challenge/tree/master/1386-cinema-seat-allocation) |
 <!---LeetCode Topics End-->
