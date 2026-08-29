@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/abhishekapoor/Leetcode-Challenge/tree/master/0704-binary-search) |
 | [0739-daily-temperatures](https://github.com/abhishekapoor/Leetcode-Challenge/tree/master/0739-daily-temperatures) |
 | [1386-cinema-seat-allocation](https://github.com/abhishekapoor/Leetcode-Challenge/tree/master/1386-cinema-seat-allocation) |
+| [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/abhishekapoor/Leetcode-Challenge/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3838-weighted-word-mapping](https://github.com/abhishekapoor/Leetcode-Challenge/tree/master/3838-weighted-word-mapping) |
 ## Hash Table
 |  |
@@ -43,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/abhishekapoor/Leetcode-Challenge/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/abhishekapoor/Leetcode-Challenge/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/abhishekapoor/Leetcode-Challenge/tree/master/0347-top-k-frequent-elements) |
+| [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/abhishekapoor/Leetcode-Challenge/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 ## String
 |  |
 | ------- |
@@ -142,4 +144,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1386-cinema-seat-allocation](https://github.com/abhishekapoor/Leetcode-Challenge/tree/master/1386-cinema-seat-allocation) |
+## Union-Find
+|  |
+| ------- |
+| [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/abhishekapoor/Leetcode-Challenge/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 <!---LeetCode Topics End-->
