@@ -132,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0127-word-ladder](https://github.com/abhishekapoor/Leetcode-Challenge/tree/master/0127-word-ladder) |
+| [0207-course-schedule](https://github.com/abhishekapoor/Leetcode-Challenge/tree/master/0207-course-schedule) |
 ## String Matching
 |  |
 | ------- |
@@ -148,4 +149,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/abhishekapoor/Leetcode-Challenge/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
+## Depth-First Search
+|  |
+| ------- |
+| [0207-course-schedule](https://github.com/abhishekapoor/Leetcode-Challenge/tree/master/0207-course-schedule) |
+## Graph Theory
+|  |
+| ------- |
+| [0207-course-schedule](https://github.com/abhishekapoor/Leetcode-Challenge/tree/master/0207-course-schedule) |
+## Topological Sort
+|  |
+| ------- |
+| [0207-course-schedule](https://github.com/abhishekapoor/Leetcode-Challenge/tree/master/0207-course-schedule) |
+## Directed Acyclic Graph
+|  |
+| ------- |
+| [0207-course-schedule](https://github.com/abhishekapoor/Leetcode-Challenge/tree/master/0207-course-schedule) |
 <!---LeetCode Topics End-->
